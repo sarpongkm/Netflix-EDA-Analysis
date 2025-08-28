@@ -17,8 +17,19 @@ Netflix Movies and TV Shows Dataset: [Kaggle](https://www.kaggle.com/datasets/sh
 - Analyzed release years, genres, durations
 - Visualized most common categories and content trends
 
-## Sample Chart
-![Most Common Genres](assets/genre_plot.png)
+## Visualizations
+
+### 1. Content Type Distribution
+![Content Type](assets/content_type_distribution.png)
+
+### 2. Netflix Releases by Year
+![Releases](assets/netflix_releases_by_year.png)
+
+### 3. Top 10 Countries Producing Content
+![Countries](assets/top_10_countries.png)
+
+### 4. Top 10 Content Durations
+![Durations](assets/top_durations.png)
 
 ## Learnings
 - Improved EDA and visualization techniques
